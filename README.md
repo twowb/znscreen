@@ -143,6 +143,3 @@ ZnScreen/
 
 - [github.com/gorilla/websocket](https://github.com/gorilla/websocket) — WebSocket 实现
 
-## License
-
-MIT
